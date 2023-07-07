@@ -1,0 +1,16 @@
+{
+  "port": 3033,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "root",
+  "db_port": 5432,
+  "db_name": "express",
+  "secret": "MyVeryVerySecretkey",
+  "access_key": "BuAccessuchunMahfiyKalit",
+  "refresh_key": "BuRefreshuchunMahfiyKalit",
+  "access_time": "15h",
+  "refresh_time": "30h",
+  "refresh_ms": 2592000000,
+  "crypt_password": "Very_very_Secret_P@55w0rd",
+  "iv": "28408e46"
+}
